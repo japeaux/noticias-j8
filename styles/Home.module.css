@@ -32,7 +32,25 @@
 .description {
   text-align: center;
 }
+.IconText {
+  padding-top: 0.8vw;
+  font-size: 1.5vw;
+}
 
+.Comments {
+  font-size: 2.5vw;
+  display: inline-block;
+}
+
+.Comment_Icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.Student_Icon {
+  margin-right: 3px;
+}
 
 .description {
   line-height: 1.5;
@@ -46,7 +64,7 @@
   flex-wrap: wrap;
 
   max-width: 800px;
-  margin-top: 3rem;
+  margin-top: 0.2rem;
 }
 
 .card {
