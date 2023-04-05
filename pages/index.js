@@ -16,7 +16,7 @@ export default function Home() {
 
     <AppForm>
     <main>
-        <h1 style={{alignContent:'center', lineHeight:'1.15'}}>
+        <h1 style={{alignContent:'center', lineHeight:'1.15', marginTop:'70px'}}>
           "O SUCESSO COMO INFLUENCIADORA DIGITAL TRANSFORMOU A VIDA DE NIKITTA"
         </h1>
 
@@ -78,8 +78,10 @@ export default function Home() {
         Além disso, Nikitta continua a buscar inovação e avanços em seus conteúdos. Ela é grata por todo o sucesso que conquistou até agora, mas sabe que ainda há muito mais a ser alcançado.
         </p>
 
-        <Button variant="contained" href="https://google.com"  style={{ display:'flex',}}>
+        <Button variant="contained" href="https://google.com"  style={{ display:'flex',}}  >
+         <p  style={{textAlign:'inherit', lineHeight:'1.5', fontSize:'1.5rem'}}>
           Entenda mais
+         </p>
         </Button>
 
         <p  style={{textAlign:'inherit', lineHeight:'1.5', fontSize:'1rem'}}>

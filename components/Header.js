@@ -28,7 +28,7 @@ function Header() {
               underline="none"
               color="#fff"
               href="https://prisma.r7.com/todos-os-blogs"
-              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+              sx={{ fontSize: 12, alignContent:'center', alignSelf:'center', margin:'10px' }}
             >
               {'BLOGS'}
             </Link>
@@ -38,7 +38,7 @@ function Header() {
               underline="none"
               color="#fff"
               href="https://entretenimento.r7.com/"
-              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+              sx={{ fontSize: 12, alignContent:'center', alignSelf:'center', margin:'10px' }}
             >
               {'ENTRETENIMENTO'}
             </Link>
@@ -48,7 +48,7 @@ function Header() {
               underline="none"
               color="#fff"
               href="https://esportes.r7.com/"
-              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+              sx={{ fontSize: 12, alignContent:'center', alignSelf:'center', margin:'10px' }}
             >
               {'ESPORTES'}
             </Link>
@@ -59,7 +59,7 @@ function Header() {
               underline="none"
               color="#fff"
               href="https://noticias.r7.com/"
-              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+              sx={{ fontSize: 12, alignContent:'center', alignSelf:'center', margin:'10px' }}
             >
               {'JR 24h'}
             </Link>
@@ -69,7 +69,7 @@ function Header() {
               underline="none"
               color="#fff"
               href="https://lifestyle.r7.com/"
-              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+              sx={{ fontSize: 12, alignContent:'center', alignSelf:'center', margin:'10px' }}
             >
               {'LIFESTYLE'}
             </Link>
@@ -79,7 +79,7 @@ function Header() {
               underline="none"
               color="#fff"
               href="https://monitor7.r7.com/"
-              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+              sx={{ fontSize: 12, alignContent:'center', alignSelf:'center', margin:'10px' }}
             >
               {'MONITOR7'}
             </Link>
@@ -89,7 +89,7 @@ function Header() {
               underline="none"
               color="#fff"
               href="https://recordtv.r7.com/"
-              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+              sx={{ fontSize: 12, alignContent:'center', alignSelf:'center', margin:'10px' }}
             >
               {'RECORD TV'}
             </Link>
@@ -99,7 +99,7 @@ function Header() {
               underline="none"
               color="#fff"
               href="https://rpet.r7.com/"
-              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+              sx={{ fontSize: 12, alignContent:'center', alignSelf:'center', margin:'10px' }}
             >
               {'RPET'}
             </Link>
@@ -108,7 +108,7 @@ function Header() {
               underline="none"
               color="#fff"
               href="https://receitas.r7.com/"
-              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+              sx={{ fontSize: 12, alignContent:'center', alignSelf:'center', margin:'10px' }}
             >
               {'R7 RECEITAS'}
             </Link>
