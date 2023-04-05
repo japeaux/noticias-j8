@@ -1,4 +1,4 @@
-import { Link } from '@mui/material';
+import { Button, Link } from '@mui/material';
 import Head from 'next/head';
 import AppForm from '../components/AppForm';
 import Header from '../components/Header';
@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div >
       <Head>
-        <title>"O SUCESSO COMO INFLUENCIADORA DIGITAL TRANSFORMOU A VIDA DE NIKITTA"</title>
+        <title>"O sucesso como influenciadora digital transformou a vida de Nikitta"</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -78,9 +78,13 @@ export default function Home() {
         Além disso, Nikitta continua a buscar inovação e avanços em seus conteúdos. Ela é grata por todo o sucesso que conquistou até agora, mas sabe que ainda há muito mais a ser alcançado.
         </p>
 
+        <Button variant="contained" href="https://google.com"  style={{ display:'flex',}}>
+          Entenda mais
+        </Button>
+
         <p  style={{textAlign:'inherit', lineHeight:'1.5', fontSize:'1rem'}}>
-        Foto Destaque: Reprodução
-         </p>
+          Foto Destaque: Reprodução
+        </p>
 
 
 
@@ -93,12 +97,12 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+          href="https://google.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel" className={styles.logo} />
+         © 2023 Todos os direitos reservados
+        
         </a>
       </footer>
 

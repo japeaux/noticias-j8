@@ -35,12 +35,94 @@ function Header() {
             <Link
               variant="h6"
               underline="none"
-              color="#E9AB17"
-              href="/"
-              sx={{ fontSize: 24, alignContent:'center', alignSelf:'center' }}
+              color="#fff"
+              href="https://prisma.r7.com/todos-os-blogs"
+              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
             >
-              {'blogs'}
+              {'BLOGS'}
             </Link>
+
+            <Link
+              variant="h6"
+              underline="none"
+              color="#fff"
+              href="https://entretenimento.r7.com/"
+              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+            >
+              {'ENTRETENIMENTO'}
+            </Link>
+
+            <Link
+              variant="h6"
+              underline="none"
+              color="#fff"
+              href="https://esportes.r7.com/"
+              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+            >
+              {'ESPORTES'}
+            </Link>
+
+            
+            <Link
+              variant="h6"
+              underline="none"
+              color="#fff"
+              href="https://noticias.r7.com/"
+              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+            >
+              {'JR 24h'}
+            </Link>
+
+            <Link
+              variant="h6"
+              underline="none"
+              color="#fff"
+              href="https://lifestyle.r7.com/"
+              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+            >
+              {'LIFESTYLE'}
+            </Link>
+
+            <Link
+              variant="h6"
+              underline="none"
+              color="#fff"
+              href="https://monitor7.r7.com/"
+              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+            >
+              {'MONITOR7'}
+            </Link>
+
+            <Link
+              variant="h6"
+              underline="none"
+              color="#fff"
+              href="https://recordtv.r7.com/"
+              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+            >
+              {'RECORD TV'}
+            </Link>
+
+            <Link
+              variant="h6"
+              underline="none"
+              color="#fff"
+              href="https://rpet.r7.com/"
+              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+            >
+              {'RPET'}
+            </Link>
+            <Link
+              variant="h6"
+              underline="none"
+              color="#fff"
+              href="https://receitas.r7.com/"
+              sx={{ fontSize: 16, alignContent:'center', alignSelf:'center', margin:'10px' }}
+            >
+              {'R7 RECEITAS'}
+            </Link>
+
+
            
            
              
