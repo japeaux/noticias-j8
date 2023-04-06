@@ -80,8 +80,8 @@ export default function Home() {
 
         <Button variant="contained" href="https://google.com"  style={{ display:'flex',}}  >
          <p  style={{textAlign:'inherit', lineHeight:'1.5', fontSize:'1.5rem'}}>
-          Entenda mais
-         </p>
+          Quero aprender
+        </p>
         </Button>
 
         <p  style={{textAlign:'inherit', lineHeight:'1.5', fontSize:'1rem'}}>
