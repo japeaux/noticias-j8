@@ -78,7 +78,7 @@ export default function Home() {
         Além disso, Nikitta continua a buscar inovação e avanços em seus conteúdos. Ela é grata por todo o sucesso que conquistou até agora, mas sabe que ainda há muito mais a ser alcançado.
         </p>
 
-        <Button variant="contained" href="https://google.com"  style={{ display:'flex',}}  >
+        <Button variant="contained" href="http://hotm.art/ShlzpQ1U"  style={{ display:'flex',}}  >
          <p  style={{textAlign:'inherit', lineHeight:'1.5', fontSize:'1.5rem'}}>
           Quero aprender
         </p>
@@ -99,7 +99,7 @@ export default function Home() {
 
       <footer>
         <a
-          href="https://google.com"
+          href="http://hotm.art/ShlzpQ1U"
           target="_blank"
           rel="noopener noreferrer"
         >
